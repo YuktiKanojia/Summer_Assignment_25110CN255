@@ -19,4 +19,5 @@ int main() {
     printf("Missing number = %d", missing);
 
     return 0;
+    
 }
